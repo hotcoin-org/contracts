@@ -1,0 +1,9 @@
+{
+  "name": "HotCoin",
+  "version": "1.0.0",
+  "description": "HotCoin Token Contract",
+  "main": "truffle-config.js",
+  "keywords": [],
+  "author": "HotCoin",
+  "license": "ISC"
+}
